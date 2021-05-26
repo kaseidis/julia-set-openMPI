@@ -1,10 +1,7 @@
-# Homework 7 - MPCS HPC Winter 2021
+# Julia set openMPI
 
 ## Requirement
-See write-up at: https://www.dropbox.com/s/3ikenr4uqzs9fep/homework%207%20-%20mpcs%20hpc%20winter%202021.pdf?dl=0
-
-## Author Name
-Shenghua Chen
+Generate Julia set graph using openMPI.
 
 ## Comments
 
